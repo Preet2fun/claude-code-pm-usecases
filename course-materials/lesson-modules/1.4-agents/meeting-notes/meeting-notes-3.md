@@ -22,3 +22,24 @@ ACTION ITEMS:
 - Jessica to schedule demo with their CTO next week
 
 OPPORTUNITY: High-value deal ($12k/year). Good reference customer for enterprise segment.
+
+---
+
+## MEETING SUMMARY
+
+### Action Items
+- **You:** Send enterprise features roadmap by Oct 5
+- **You:** Confirm uptime SLA guarantees with engineering
+- **Jessica:** Provide case study from similar-sized customer
+- **Jessica:** Schedule demo with their CTO next week
+
+### Decisions Made
+- Budget range confirmed: $10-12k/year
+- Decision timeline: Decision by November, implementation in December
+- Decision committee identified: CTO, CFO, and Rachel Thomas (VP Ops)
+
+### Next Steps
+- Follow up on uptime SLA requirements with engineering team
+- Prepare and send enterprise features roadmap by October 5
+- Coordinate with Jessica on CTO demo scheduling
+- Prepare for multi-stakeholder evaluation process (CTO, CFO, Rachel)

@@ -32,3 +32,29 @@ ACTION ITEMS:
 - Team to do mid-sprint check-in Oct 9 (async update in Slack)
 
 Sprint runs Oct 2-16. Demo scheduled for Oct 16 at 2pm PT.
+
+---
+
+## MEETING SUMMARY
+
+### Decisions Made
+- Postponed push notifications to next sprint (dependency on backend work)
+- Prioritized offline sync foundation over nice-to-have UI polish
+- Engineering wants to pay down tech debt now rather than later
+- Committed to 76 story points for the sprint (out of 80 available)
+- Timeboxing offline sync complexity to 2 days maximum
+
+### Action Items
+- Engineers to break down tasks and assign by end of day
+- Alex to check in with Jordan about UI decisions before she travels
+- Mike to review offline sync approach before implementation starts
+- Team to do mid-sprint check-in Oct 9 (async update in Slack)
+
+### Next Steps
+- Sprint execution: October 2-16
+- Mid-sprint async check-in: October 9 (Slack)
+- Sprint demo: October 16 at 2pm PT
+
+### Risks to Monitor
+- Offline sync complexity could spill over (mitigated by 2-day timebox)
+- Designer availability limited due to Jordan traveling for conference - may need to make UI decisions without design input

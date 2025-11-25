@@ -37,3 +37,27 @@ ACTION ITEMS:
 - Sarah to evaluate AI feature opportunities for 2025 roadmap
 
 Next competitive review: January 2025 (quarterly cadence)
+
+---
+
+## SUMMARY
+
+### Action Items
+- **You**: Compile detailed competitive feature matrix by Oct 10
+- **Marketing (Lisa)**: Update website positioning based on discussion
+- **Sales (Tom)**: Create competitive battle cards for sales team
+- **Head of Product (Sarah)**: Evaluate AI feature opportunities for 2025 roadmap
+
+### Decisions Made
+- **Core positioning**: "Project management built for how remote teams actually work" - emphasizes async, context-rich, cross-functional strengths
+- **Next competitive review scheduled**: January 2025 (quarterly cadence)
+
+### Key Threats Identified
+- **Linear**: Expanding beyond engineering teams into cross-functional use cases, directly competitive with TaskFlow
+- **Asana**: AI capabilities (task auto-categorization, smart suggestions) could justify higher price point
+- **Monday.com**: Outspending TaskFlow 10:1 on marketing, increasing brand recognition and mind-share
+
+### Key Opportunities Identified
+- **vs Linear**: Linear still weak for non-technical users (PMs, designers, marketing) - TaskFlow can win cross-functional teams
+- **vs Asana**: Asana is slow-moving as enterprise company - TaskFlow can ship AI features faster if prioritized
+- **vs Monday.com**: Monday.com product is bloated and confusing, customers churn due to complexity - TaskFlow wins on simplicity

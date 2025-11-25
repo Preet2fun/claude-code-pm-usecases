@@ -38,3 +38,26 @@ ACTION ITEMS:
 - Engineering Leads to define tech debt priorities for Q1
 
 Roadmap to be finalized by Oct 18, communicated company-wide Oct 21.
+
+---
+
+## SUMMARY
+
+### Action Items
+- Sarah to share roadmap with CEO for approval
+- You to create detailed specs for Q1 activation improvements
+- Alex to finalize mobile app launch plan
+- Jordan to assess design hiring needs
+- Engineering Leads to define tech debt priorities for Q1
+
+### Decisions Made
+- Q1 2025 priorities finalized: Mobile app launch, Enterprise features (SSO, permissions, audit logs), Activation improvements (onboarding redesign, templates), Dark mode
+- Q2 2025 priorities finalized: Time tracking, Resource management/capacity planning, Custom workflows, API v2
+- Technical debt allocation approved: 20% time per sprint
+- Native desktop app (Electron) deferred - revisit in Q3 if customer demand increases
+- Features deferred to icebox: Whiteboarding, Goals & OKRs, Public roadmap, Advanced reporting
+
+### Next Steps
+- Roadmap to be finalized by Oct 18
+- Roadmap to be communicated company-wide Oct 21
+- Design team capacity assessment needed (potential hire in Q1)

@@ -28,3 +28,29 @@ ACTION ITEMS:
 - Team to prioritize activation improvements for Q4
 
 RECOMMENDATION: Focus on first 5 minutes of user experience. That's where we lose people.
+
+---
+
+## SUMMARY
+
+### Action Items
+- **You**: Document findings in full research report by Oct 8
+- **Amy**: Design improved empty state with templates
+- **You**: Propose onboarding improvements in next product sync
+- **Team**: Prioritize activation improvements for Q4
+
+### Decisions Made
+- Focus area identified: First 5 minutes of user experience
+- Root cause confirmed: Onboarding friction is blocking activation (stuck at 45%)
+- Strategic pivot needed: Move from video tutorials to interactive onboarding
+
+### Next Steps
+1. Complete full research report by Oct 8
+2. Design new empty state with starter templates
+3. Present onboarding improvement proposals at next product sync
+4. Plan Q4 roadmap prioritizing activation improvements
+5. Key areas to address:
+   - Empty state guidance
+   - Task creation button visibility (move from top-right to center)
+   - Team invite prompts (increase prominence)
+   - Replace tutorial video with interactive onboarding

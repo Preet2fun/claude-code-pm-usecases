@@ -19,3 +19,29 @@ ACTION ITEMS:
 - Frontend team to begin implementation week of Oct 14
 
 DECISION: Ship dark mode in 2 phases. Phase 1 (core UI) by Nov 15. Phase 2 (integrations) by Dec 1.
+
+---
+
+## SUMMARY
+
+### Action Items
+- Jordan to finalize color tokens in design system by Oct 12
+- Frontend lead to create implementation plan with phases by Oct 11
+- Amy to contact Figma about dark mode embed support
+- You to update dark mode PRD with phased rollout approach
+- Frontend team to begin implementation week of Oct 14
+
+### Decisions Made
+- Implementation approach: Both system preference default and manual toggle
+- Toggle location: User settings menu
+- Rollout strategy: Ship dark mode in 2 phases
+  - Phase 1 (core UI) by Nov 15
+  - Phase 2 (integrations) by Dec 1
+
+### Next Steps
+- Dark mode design color tokens to be finalized by Oct 12
+- Implementation plan with phased approach due Oct 11
+- Implementation begins week of Oct 14
+- Core UI dark mode ships by Nov 15
+- Full dark mode (including integrations/embeds) ships by Dec 1
+- Follow up with Figma team regarding dark mode embed support

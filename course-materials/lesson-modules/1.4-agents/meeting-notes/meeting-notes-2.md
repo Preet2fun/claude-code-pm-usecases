@@ -19,3 +19,25 @@ ACTION ITEMS:
 - QA team to test rate limiting in staging by Oct 10
 
 NOTES: Team morale high. Everyone excited about mobile launch.
+
+---
+
+## MEETING SUMMARY
+
+### Action Items
+- Mike to unblock SSO by recommending library (Passport.js vs. alternative)
+- Alex to schedule 30min sync with Jordan on conflict resolution UX
+- Backend team to complete mobile API endpoints by Oct 14
+- QA team to test rate limiting in staging by Oct 10
+
+### Decisions Made
+- Switching from unclear third-party library to alternative for SSO integration
+- Rolling out database optimization to production this week
+- Need design decision on conflict resolution strategy for offline sync
+
+### Next Steps
+- SSO library evaluation (2 more days needed)
+- Conflict resolution UX design meeting to be scheduled
+- Mobile API endpoints completion target: Oct 14
+- Rate limiting QA testing target: Oct 10
+- Database optimization production rollout this week

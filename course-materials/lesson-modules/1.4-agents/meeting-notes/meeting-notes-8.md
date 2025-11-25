@@ -29,3 +29,25 @@ ACTION ITEMS:
 - Marketing to create pricing page updates
 
 Target launch: November 1, 2024
+
+---
+
+## MEETING SUMMARY
+
+### Decisions Made
+- Launch new Business tier at $18/user/month
+- Keep Pro pricing stable (no increase from $12/user/month)
+- Maintain 20% annual discount (no reduction to 15%)
+- Test new pricing structure for 3 months and measure conversion rates
+- No usage-based pricing for integrations at this time
+
+### Action Items
+- **You**: Define Business tier feature set by Oct 15
+- **CFO**: Model revenue impact of new tier
+- **Sales Lead (Tom)**: Prepare sales pitch for Business tier
+- **Marketing**: Create pricing page updates
+
+### Next Steps
+- Target launch date: November 1, 2024
+- Monitor conversion rates: Free → Pro → Business → Enterprise
+- 3-month testing period to evaluate Business tier performance

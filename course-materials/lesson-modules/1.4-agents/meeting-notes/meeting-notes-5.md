@@ -31,3 +31,26 @@ ACTION ITEMS:
 - CFO to model revenue impact of activation improvements
 
 CEO closing: "Great progress, but we need to fix activation and churn before Series C fundraising in Q2."
+
+---
+
+## MEETING SUMMARY
+
+### Action Items
+- **Sarah Chen (Head of Product)**: Present activation improvement plan by Oct 20
+- **Customer Success Lead**: Analyze churn reasons and present findings Oct 25
+- **Sales Lead**: Propose enterprise sales process improvements
+- **CFO**: Model revenue impact of activation improvements
+
+### Decisions Made
+- Q4 priorities reaffirmed:
+  1. Ship mobile app (Q1 2025)
+  2. Launch enterprise features (SSO, permissions, audit logs)
+  3. Fix activation funnel (Product team focus)
+- Focus on fixing activation and churn before Series C fundraising in Q2
+
+### Next Steps
+- Product team to prioritize activation funnel improvements
+- Customer Success to investigate churn among small teams (under 10 users)
+- Sales to streamline enterprise sales process (currently 6 months average)
+- Finance to quantify potential revenue impact of activation rate improvements

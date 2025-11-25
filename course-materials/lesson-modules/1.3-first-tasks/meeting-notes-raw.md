@@ -251,3 +251,64 @@ FOLLOW-UPS NEEDED:
 - technical estimate for templates (jamie)
 
 busy week ahead!
+
+---
+
+## 📋 ACTION ITEMS SUMMARY (Processed by Claude Code)
+
+### **You (PM)**
+| Task | Priority | Due Date | Notes |
+|------|----------|----------|-------|
+| Research competitor onboarding (Asana, Linear, ClickUp) | HIGH | Tue 10/8 | For onboarding redesign decision |
+| Draft PRD for notification improvements | HIGH | Fri 10/11 | Address pain points: smart batching, digest, timezone-aware |
+| Talk to Customer Success re: notification tickets | HIGH | Wed 10/9 | Quantify impact of notification issues |
+| Competitive analysis: notifications (Asana, Linear, ClickUp) | MEDIUM | Tue 10/15 | Support notifications PRD |
+| Write one-pager on template library | HIGH | Wed 10/9 | Scope, goals, timeline for Q1/Q2 decision |
+| Gather activation drop-off data | HIGH | Thu 10/10 | Where do new users abandon? |
+| Review Alex's mobile PRD | MEDIUM | Wed 10/9 | Personal reminder |
+
+### **Jordan (Design)**
+| Task | Priority | Due Date | Notes |
+|------|----------|----------|-------|
+| Investigate dark mode contrast issues with user-uploaded images | MEDIUM | Wed 10/9 | Design review meeting |
+| Wireframes for interactive tour concept | HIGH | Mon 10/14 | For onboarding redesign |
+| Dark mode final mockups | HIGH | Wed 10/9 | Design review meeting |
+| Quick mockups of template selection UI | MEDIUM | Mon 10/14 | For template library one-pager |
+
+### **Mike (CTO)**
+| Task | Priority | Due Date | Notes |
+|------|----------|----------|-------|
+| Notification technical spec (async queue, schema redesign) | HIGH | Fri 10/11 | For notifications PRD decision |
+| Investigate performance regression in search | MEDIUM | ASAP | Engineering team concern |
+
+### **Jamie (Engineering Lead)**
+| Task | Priority | Due Date | Notes |
+|------|----------|----------|-------|
+| Detailed technical estimate for template library | MEDIUM | Tue 10/15 | Timeline/feasibility assessment |
+| Confirm mobile app readiness for Q1 launch | HIGH | Mon 10/14 | Team capacity planning |
+
+### **Alex (Mobile PM)**
+| Task | Priority | Due Date | Notes |
+|------|----------|----------|-------|
+| Check if mobile app needs template support at launch | MEDIUM | Tue 10/15 | Scope for template project |
+| Mobile considerations for notification redesign | MEDIUM | Mon 10/14 | Push notifications, iOS/Android specifics |
+
+### **Sarah (Head of Product)**
+| Task | Priority | Due Date | Notes |
+|------|----------|----------|-------|
+| Talk to Customer Success about activation blockers | HIGH | This week | Product sync discussion |
+| Q1 vs Q2 prioritization decision | HIGH | Wed 10/16 | Templates vs Notifications vs Enterprise |
+| Schedule API v2 roadmap discussion | MEDIUM | Next week | Parking lot item |
+
+---
+
+### **Key Decisions Needed**
+- ❓ Q1 priorities: Mobile (committed) + Dark Mode + Templates + Notification Infra vs Q2?
+- ❓ Template library scope: Web only vs Mobile included?
+- ❓ Notifications: Full redesign Q1 or just async infrastructure in Q1, UX in Q2?
+
+### **Meetings This Week**
+- Tue 10/8: Customer interview (enterprise admin)
+- Wed 10/9: Design review (dark mode mockups)
+- Thu 10/10: Sprint 23 planning
+- Fri 10/11: All-hands

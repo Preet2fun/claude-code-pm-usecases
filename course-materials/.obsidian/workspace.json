@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson-modules/1.2-visualizing-files/pm-workflow-example.md",
+                "file": "lesson-modules/1.5-custom-subagents/feature-spec-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pm-workflow-example"
+              "title": "feature-spec-review"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lesson-modules/1.2-visualizing-files/pm-workflow-example.md",
+                "file": "lesson-modules/1.5-custom-subagents/feature-spec-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pm-workflow-example"
+              "title": "Backlinks for feature-spec-review"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lesson-modules/1.2-visualizing-files/pm-workflow-example.md",
+                "file": "lesson-modules/1.5-custom-subagents/feature-spec-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pm-workflow-example"
+              "title": "Outgoing links from feature-spec-review"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lesson-modules/1.2-visualizing-files/pm-workflow-example.md",
+                "file": "lesson-modules/1.5-custom-subagents/feature-spec-review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pm-workflow-example"
+              "title": "Outline of feature-spec-review"
             }
           }
         ]
@@ -185,6 +185,29 @@
   },
   "active": "cf3b1070bd146dae",
   "lastOpenFiles": [
+    "lesson-modules/1.5-custom-subagents/feature-spec-realtime-collab.md",
+    "lesson-modules/1.5-custom-subagents/feature-spec-review.md",
+    "lesson-modules/1.5-custom-subagents/CLAUDE.md",
+    "lesson-modules/1.4-agents/competitor-research/competitor-asana.md",
+    "lesson-modules/1.4-agents/mobile-app-research-synthesis.md",
+    "lesson-modules/1.4-agents/competitor-clickup.md",
+    "lesson-modules/1.4-agents/competitive-landscape-matrix.md",
+    "lesson-modules/1.4-agents/meeting-notes/meeting-notes-3.md",
+    "lesson-modules/1.4-agents/competitor-linear.md",
+    "lesson-modules/1.4-agents/competitor-monday.md",
+    "lesson-modules/1.4-agents/competitor-jira.md",
+    "lesson-modules/1.4-agents/meeting-notes/meeting-notes-1.md",
+    "lesson-modules/1.3-first-tasks/attachments/ui-mockup-example.png",
+    "lesson-modules/1.3-first-tasks/research-communications.md",
+    "lesson-modules/1.3-first-tasks/communication-styles/style-notion-doc.md",
+    "lesson-modules/1.3-first-tasks/communication-styles/style-executive-email.md",
+    "lesson-modules/1.3-first-tasks/communication-styles/style-slack-update.md",
+    "lesson-modules/1.3-first-tasks/user-research-synthesis.md",
+    "lesson-modules/1.3-first-tasks/user-interviews/user-interview-02.md",
+    "lesson-modules/1.3-first-tasks/user-interviews/user-interview-01.md",
+    "lesson-modules/1.3-first-tasks/product-sync-notes.md",
+    "lesson-modules/1.3-first-tasks/meeting-notes-raw.md",
+    "lesson-modules/1.2-visualizing-files/pm-workflow-example.md",
     "lesson-modules/1.2-visualizing-files/test-visualization.md",
     "company-context/COMPANY.md"
   ]
